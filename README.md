@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=AshaNebula%2C+self+taught+developer.;C%2b%2b+my+beloved.)](https://git.io/typing-svg)
 
-<img src="./assets/images/bg1.jpg" alt="banner" align="right" width="450px">
+<img src="./assets/images/bg1.jpg" alt="banner" align="left" width="450px">
 <br>
 
 <h3 align=center>🌸 About me 💫</h3>
@@ -10,9 +10,7 @@
 ___
 
 <h3 align=center>💻 Languages & Frameworks
-
-<br>
-
+<br><br>
 <div align=center>
    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=55205&format=png&color=5B3BCF" alt="csharp"/>
    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="cxx"/>
@@ -23,7 +21,7 @@ ___
    <img width="42" height="42" src="https://raw.githubusercontent.com/MonoGame/MonoGame.Logo/refs/heads/master/FullColorOnLight/LogoOnly_128px.png" alt="monogame"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
 </div>
-
+<br>
 <div align="left">
    
 ```c++
