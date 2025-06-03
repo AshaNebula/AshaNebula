@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=AshaNebula%2C+self+taught+developer.;C%2b%2b+my+beloved.)](https://git.io/typing-svg)
 
-<img src="./assets/images/bg1.jpg" alt="banner" align="right" width="440px">
+<img src="./assets/images/bg1.jpg" alt="banner" align="right" width="450px">
 <br>
 
 <h3 align=center>🌸 About me 💫</h3>
@@ -24,6 +24,8 @@ ___
    <img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
 </div>
 
+<div align="left">
+   
 ```c++
 #include <iostream>
 
@@ -31,6 +33,8 @@ int main() {
    std::cout << "C++ My beloved" << std::endl;
 }
 ```
+
+</div>
 
 ___
 
